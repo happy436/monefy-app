@@ -22,9 +22,9 @@
 - [ ] 3. Create database system
 - [ ] 4. Create hooks
   - [ ] 4.1 Registration / authentification hook
-  - [ ] 4.2 Theme hook
+  - [x] 4.2 Theme hook
   - [ ] 4.3 Language hook
-  - [ ] 4.4 Telegram hook
+  - [x] 4.4 Telegram hook
 - [ ] 5. Create tests for all pages, utils and functions.
 
 ### Startion project
